@@ -1,4 +1,5 @@
-### Hi there 👋
+# Zach Coats
+Zach is a Computer Science teacher at Northside High School in Fort Smith, AR. Given that he teaches at his alma mater and the students sitting in his classes get younger every year, he often goes by the moniker **Grey Grizzly**. He has taught at Northside for 10 years, and 8 of those have involved teaching some sort of Computer Science.
 
 <!--
 **GreyGrizzly06/GreyGrizzly06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
